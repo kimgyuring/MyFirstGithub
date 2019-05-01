@@ -9,3 +9,4 @@
 
  * https://metakits.cc/SIA2019NoC/
  * _제가 자주 쓰는 사이트는 **네이버**입니다_
+ * ![GitHub Logo](/images/logo.png)
